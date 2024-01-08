@@ -1,0 +1,47 @@
+{
+    "name": "File Manager",
+    "type": "folder",
+    "items": [
+        {
+            "name": "src",
+            "type": "folder",
+            "items": [
+                {
+                    "name": "Components",
+                    "type": "folder",
+                    "items": [
+                        {
+                            "name": "Directory.jsx",
+                            "type": "file",
+                            "content": "Hey There, I am Directory component"
+                        }
+                    ]
+                },
+                {
+                    "name": "App.js",
+                    "type": "file",
+                    "content": "Hey There, I am App component"
+
+                },
+                {
+                    "name": "index.js",
+                    "type": "file",
+                    "content": "Hey There, I am index file"
+
+                }
+            ]
+        },
+        {
+            "name": "public",
+            "type": "folder",
+            "items": [
+                {
+                    "name": "index.html",
+                    "type": "file",
+                    "content": "Hey There, I am html file"
+
+                }
+            ]
+        }
+    ]
+}
